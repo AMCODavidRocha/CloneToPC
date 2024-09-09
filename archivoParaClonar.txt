@@ -1,1 +1,5 @@
 Se debe clonar este documento desde GitHub al equipo...
+.
+.
+.
+Clonado con exito, ahora se realiza cambia y se hace un push a GitHub
